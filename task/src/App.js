@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import React from 'react';
+import Person from './components/Person';
+import './style.css';
+import Students from './Students';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const Names = Students.map((item) => (
+		<Person
+			job={item.job}
+			location={item.location}
+			img={item.img}
+			name={item.name}
+			facebook={item.facebook}
+			github={item.github}
+			linkedin={item.linkedin}
+		/>
+	));
+	return <div className='container'>{Names}</div>;
 }
 
 export default App;
