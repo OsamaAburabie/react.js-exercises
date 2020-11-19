@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react.js-exercises/static/css/main.806140ee.chunk.css",
+    "main.js": "/react.js-exercises/static/js/main.afb34eb7.chunk.js",
+    "main.js.map": "/react.js-exercises/static/js/main.afb34eb7.chunk.js.map",
+    "runtime-main.js": "/react.js-exercises/static/js/runtime-main.02c8a8cc.js",
+    "runtime-main.js.map": "/react.js-exercises/static/js/runtime-main.02c8a8cc.js.map",
+    "static/js/2.afdd2c74.chunk.js": "/react.js-exercises/static/js/2.afdd2c74.chunk.js",
+    "static/js/2.afdd2c74.chunk.js.map": "/react.js-exercises/static/js/2.afdd2c74.chunk.js.map",
+    "index.html": "/react.js-exercises/index.html",
+    "static/css/main.806140ee.chunk.css.map": "/react.js-exercises/static/css/main.806140ee.chunk.css.map",
+    "static/js/2.afdd2c74.chunk.js.LICENSE.txt": "/react.js-exercises/static/js/2.afdd2c74.chunk.js.LICENSE.txt",
+    "static/media/2.a51421bc.jpg": "/react.js-exercises/static/media/2.a51421bc.jpg",
+    "static/media/3.e64bf312.jpg": "/react.js-exercises/static/media/3.e64bf312.jpg",
+    "static/media/4.47f30d25.jpg": "/react.js-exercises/static/media/4.47f30d25.jpg",
+    "static/media/5.dec90888.jpg": "/react.js-exercises/static/media/5.dec90888.jpg",
+    "static/media/6.6ced265d.jpg": "/react.js-exercises/static/media/6.6ced265d.jpg",
+    "static/media/7.b9d40660.jpg": "/react.js-exercises/static/media/7.b9d40660.jpg",
+    "static/media/8.afc07e01.jpg": "/react.js-exercises/static/media/8.afc07e01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c8a8cc.js",
+    "static/js/2.afdd2c74.chunk.js",
+    "static/css/main.806140ee.chunk.css",
+    "static/js/main.afb34eb7.chunk.js"
+  ]
+}
