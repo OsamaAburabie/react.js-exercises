@@ -21,7 +21,7 @@ const Students = [
 
 		name: 'Monther Tawissi',
 		img: Monther,
-		location: 'Irbid/Jordan',
+		location: 'Jarash/Jordan',
 		job: 'civil engineer ',
 		facebook: 'https://www.facebook.com/monthertwaissi',
 		linkedin: 'https://www.linkedin.com/in/monther-twaissi/',
