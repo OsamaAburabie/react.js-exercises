@@ -11,10 +11,11 @@ const Students = [
 		name: 'Osama Aburabie',
 		img: Osama,
 		location: 'Amman/Jordan',
-		job: 'student',
+		job: 'developer',
 		facebook: 'https://www.facebook.com/osamajamell/',
 		linkedin: 'https://www.linkedin.com/in/osama-aburabi-e-1abb791b6/',
 		github: 'https://github.com/OsamaAburabie',
+		about: 'The boss of the MAFIA you mess with me consider your self DEAD!😎',
 	},
 	{
 		id: 2,
@@ -26,6 +27,7 @@ const Students = [
 		facebook: 'https://www.facebook.com/monthertwaissi',
 		linkedin: 'https://www.linkedin.com/in/monther-twaissi/',
 		github: 'https://github.com/Monther-Twaissi',
+		about: "I'm  civil engineer but i build cities of websites😏 ",
 	},
 	{
 		id: 3,
@@ -37,6 +39,7 @@ const Students = [
 		facebook: 'https://www.facebook.com/ahmada3mar',
 		linkedin: 'https://www.linkedin.com/in/ahmada3mar/',
 		github: 'https://github.com/ahmada3mar',
+		about: "I'm a nurse but i code better than bill gats who wanna fight?🙂",
 	},
 	{
 		id: 4,
@@ -48,6 +51,7 @@ const Students = [
 		facebook: 'https://www.facebook.com/aha.jaja9696',
 		linkedin: 'https://www.linkedin.com/in/ashraf-aljabari/',
 		github: 'https://github.com/ashraf-aljabari',
+		about: "I'm a control FREAK!! give me the host! and I'll mute everyone!😂",
 	},
 	{
 		id: 5,
@@ -55,21 +59,23 @@ const Students = [
 		name: 'Abdullah Al-hajeid',
 		img: Abdullah,
 		location: 'Amman/Jordan',
-		job: 'student',
+		job: 'gamer',
 		facebook: 'https://www.facebook.com/abd.alhajeid',
 		linkedin: 'https://www.linkedin.com/in/abdallah-alhajeid/',
 		github: 'https://github.com/Abdallah-Alhajeid',
+		about: "I'm the best gamer on the world i taught ninja how to play 😎",
 	},
 	{
 		id: 6,
 
-		name: 'Abdel rahma Abdaldeen',
+		name: 'Abdel rahman',
 		img: Abd,
 		location: 'Amman/Jordan',
-		job: 'student',
+		job: 'computer science',
 		facebook: 'https://www.facebook.com/abdalrahman.aldawaimah/',
 		linkedin: 'https://www.linkedin.com/in/abd-abdaldeen/',
 		github: 'https://github.com/abdAbdaldeen',
+		about: "I'm not a scammer i just change comments🙄",
 	},
 ];
 

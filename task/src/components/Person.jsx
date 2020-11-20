@@ -17,10 +17,7 @@ function Person(props) {
 					<h3 className='Person__name'>{props.name}</h3>
 					<p className='Poerson__location'>{props.location}</p>
 					<p className='Poerson__job'>{props.job}</p>
-					<p className='Poerson__about'>
-						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci,
-						optio!
-					</p>
+					<p className='Poerson__about'>{props.about}</p>
 				</div>
 				<div className='socials'>
 					<a href={props.facebook} target='_blank'>
