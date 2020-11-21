@@ -1,9 +1,17 @@
+//========= images
 import Osama from './Images/3.jpg';
 import Monther from './Images/4.jpg';
 import Ahmad from './Images/5.jpg';
 import Ashraf from './Images/6.jpg';
 import Abdullah from './Images/7.jpg';
 import Abd from './Images/8.jpg';
+//cover images
+import Osamac from './Images/mafia.jpg';
+import Montherc from './Images/c1.jpg';
+import Ahmadc from './Images/c4.jpg';
+import Ashrafc from './Images/dims.jpg';
+import Abdullahc from './Images/c2.jpg';
+import Abdc from './Images/c3.jpg';
 
 const Students = [
 	{
@@ -11,11 +19,12 @@ const Students = [
 		name: 'Osama Aburabie',
 		img: Osama,
 		location: 'Amman/Jordan',
-		job: 'developer',
+		job: 'Mafia boss',
 		facebook: 'https://www.facebook.com/osamajamell/',
 		linkedin: 'https://www.linkedin.com/in/osama-aburabi-e-1abb791b6/',
 		github: 'https://github.com/OsamaAburabie',
 		about: 'The boss of the MAFIA you mess with me consider your self DEAD!😎',
+		cover: Osamac,
 	},
 	{
 		id: 2,
@@ -28,6 +37,7 @@ const Students = [
 		linkedin: 'https://www.linkedin.com/in/monther-twaissi/',
 		github: 'https://github.com/Monther-Twaissi',
 		about: "I'm  civil engineer but i build cities of websites😏 ",
+		cover: Montherc,
 	},
 	{
 		id: 3,
@@ -40,6 +50,7 @@ const Students = [
 		linkedin: 'https://www.linkedin.com/in/ahmada3mar/',
 		github: 'https://github.com/ahmada3mar',
 		about: "I'm a nurse but i code better than bill gats who wanna fight?🙂",
+		cover: Ahmadc,
 	},
 	{
 		id: 4,
@@ -52,6 +63,7 @@ const Students = [
 		linkedin: 'https://www.linkedin.com/in/ashraf-aljabari/',
 		github: 'https://github.com/ashraf-aljabari',
 		about: "I'm a control FREAK!! give me the host! and I'll mute everyone!😂",
+		cover: Ashrafc,
 	},
 	{
 		id: 5,
@@ -64,6 +76,7 @@ const Students = [
 		linkedin: 'https://www.linkedin.com/in/abdallah-alhajeid/',
 		github: 'https://github.com/Abdallah-Alhajeid',
 		about: "I'm the best gamer on the world i taught ninja how to play 😎",
+		cover: Abdullahc,
 	},
 	{
 		id: 6,
@@ -76,6 +89,7 @@ const Students = [
 		linkedin: 'https://www.linkedin.com/in/abd-abdaldeen/',
 		github: 'https://github.com/abdAbdaldeen',
 		about: "I'm not a scammer i just change comments🙄",
+		cover: Abdc,
 	},
 ];
 

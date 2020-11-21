@@ -1,12 +1,10 @@
 import React from 'react';
-import HeaderImage from '../Images/2.jpg';
-import Osama from '../Images/3.jpg';
 
-function Person(props) {
+function Card(props) {
 	return (
 		<div className='card'>
 			<div className='header__img'>
-				<img src={HeaderImage} width='100%' height='100%' />
+				<img src={props.cover} width='100%' height='100%' />
 				<a href='#'>
 					<i class='fas fa-pen'></i>
 				</a>
@@ -37,4 +35,4 @@ function Person(props) {
 	);
 }
 
-export default Person;
+export default Card;
