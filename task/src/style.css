@@ -85,3 +85,7 @@
 	font-size: 2rem;
 	color: #cccfe5;
 }
+
+.socials i:hover {
+	color: gray;
+}
